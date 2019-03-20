@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F1D2625-4EDB-440B-AD2F-5F87AF621EBB}"
+	ProjectSection(SolutionItems) = preProject
+		RedMe.MD = RedMe.MD
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{CC80E17B-5A58-4604-8083-89BE3C1E684D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overtime", "Overtime\Overtime.csproj", "{A6A64AC7-9A9F-4761-8406-87CD79A68AF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attendance", "Attendance\Attendance.csproj", "{4DC50629-0F06-4604-97EC-54E477EBE4C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OvertimeOrderTest", "OvertimeOrderTest\OvertimeOrderTest.csproj", "{B92FF0B3-C261-4869-9BA1-D9F7483FE9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvertimeOrderConsole", "OvertimeOrderConsole\OvertimeOrderConsole.csproj", "{FC733658-4104-4B08-B726-CD2F2F174FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC80E17B-5A58-4604-8083-89BE3C1E684D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC80E17B-5A58-4604-8083-89BE3C1E684D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC80E17B-5A58-4604-8083-89BE3C1E684D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC80E17B-5A58-4604-8083-89BE3C1E684D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A64AC7-9A9F-4761-8406-87CD79A68AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A64AC7-9A9F-4761-8406-87CD79A68AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A64AC7-9A9F-4761-8406-87CD79A68AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A64AC7-9A9F-4761-8406-87CD79A68AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC50629-0F06-4604-97EC-54E477EBE4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC50629-0F06-4604-97EC-54E477EBE4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC50629-0F06-4604-97EC-54E477EBE4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC50629-0F06-4604-97EC-54E477EBE4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92FF0B3-C261-4869-9BA1-D9F7483FE9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92FF0B3-C261-4869-9BA1-D9F7483FE9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92FF0B3-C261-4869-9BA1-D9F7483FE9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92FF0B3-C261-4869-9BA1-D9F7483FE9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC733658-4104-4B08-B726-CD2F2F174FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC733658-4104-4B08-B726-CD2F2F174FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC733658-4104-4B08-B726-CD2F2F174FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC733658-4104-4B08-B726-CD2F2F174FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECF2C83-4C0D-4BE5-9E6E-BDB71440C149}
+	EndGlobalSection
+EndGlobal

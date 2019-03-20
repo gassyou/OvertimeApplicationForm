@@ -1,0 +1,17 @@
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\OvertimeOrderConsole.deps.json
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\OvertimeOrderConsole.runtimeconfig.json
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\OvertimeOrderConsole.runtimeconfig.dev.json
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\OvertimeOrderConsole.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\OvertimeOrderConsole.pdb
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Attendance.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Overtime.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Attendance.pdb
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\bin\Debug\netcoreapp2.2\Overtime.pdb
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.csprojResolveAssemblyReference.cache
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.AssemblyInfo.cs
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderConsole\obj\Debug\netcoreapp2.2\OvertimeOrderConsole.pdb

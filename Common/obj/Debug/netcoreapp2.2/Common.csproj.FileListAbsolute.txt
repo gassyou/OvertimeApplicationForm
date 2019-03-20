@@ -1,0 +1,8 @@
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.pdb
