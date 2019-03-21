@@ -15,3 +15,4 @@ D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.Assemb
 D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
 D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.dll
 D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.pdb
+c:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache

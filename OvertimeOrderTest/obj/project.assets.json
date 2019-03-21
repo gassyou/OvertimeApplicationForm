@@ -5904,15 +5904,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\OvertimeOrderTest.csproj",
+      "projectUniqueName": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\OvertimeOrderTest.csproj",
       "projectName": "OvertimeOrderTest",
-      "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\OvertimeOrderTest.csproj",
+      "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\OvertimeOrderTest.csproj",
       "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\obj\\",
+      "outputPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\OvertimeOrderTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5931,14 +5928,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj": {
-              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj"
+            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
+              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
             },
-            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
-              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
+            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
             },
-            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
+            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj": {
+              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj"
             }
           }
         }
@@ -5952,23 +5949,23 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
-          "xunit.runner.visualstudio": {
+          "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "2.4.0"
+            "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.2.0",
+            "version": "[2.2.0, )",
             "autoReferenced": true
           },
           "xunit": {
             "target": "Package",
-            "version": "2.4.0"
+            "version": "[2.4.0, )"
           },
-          "Microsoft.NET.Test.Sdk": {
+          "xunit.runner.visualstudio": {
             "target": "Package",
-            "version": "15.9.0"
+            "version": "[2.4.0, )"
           }
         },
         "imports": [

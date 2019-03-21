@@ -12,7 +12,6 @@ C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\bin\Debug\ne
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\bin\Debug\netcoreapp2.2\Attendance.pdb
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\bin\Debug\netcoreapp2.2\Common.pdb
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\bin\Debug\netcoreapp2.2\Overtime.pdb
-C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.csprojResolveAssemblyReference.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.csproj.CoreCompileInputs.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.AssemblyInfoInputs.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.AssemblyInfo.cs
@@ -38,3 +37,5 @@ D:\Projects\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\Ov
 D:\Projects\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.AssemblyInfo.cs
 D:\Projects\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.dll
 D:\Projects\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.pdb
+c:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.csprojAssemblyReference.cache
+c:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\OvertimeOrderTest\obj\Debug\netcoreapp2.2\OvertimeOrderTest.csproj.CopyComplete

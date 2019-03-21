@@ -726,15 +726,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+      "projectUniqueName": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
       "projectName": "Overtime",
-      "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+      "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
       "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\obj\\",
+      "outputPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -753,11 +750,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
-              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
+            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
+              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
             },
-            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
+            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
             }
           }
         }
@@ -774,7 +771,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.2.0",
+            "version": "[2.2.0, )",
             "autoReferenced": true
           }
         },

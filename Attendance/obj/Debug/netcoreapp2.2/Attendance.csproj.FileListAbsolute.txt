@@ -3,7 +3,6 @@ C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\bin\Debug\netcoreap
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\bin\Debug\netcoreapp2.2\Attendance.pdb
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\bin\Debug\netcoreapp2.2\Common.dll
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\bin\Debug\netcoreapp2.2\Common.pdb
-C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.csprojResolveAssemblyReference.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.csproj.CoreCompileInputs.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.AssemblyInfoInputs.cache
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.AssemblyInfo.cs
@@ -20,3 +19,5 @@ D:\Projects\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendanc
 D:\Projects\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.AssemblyInfo.cs
 D:\Projects\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.dll
 D:\Projects\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.pdb
+c:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.csprojAssemblyReference.cache
+c:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Attendance\obj\Debug\netcoreapp2.2\Attendance.csproj.CopyComplete
