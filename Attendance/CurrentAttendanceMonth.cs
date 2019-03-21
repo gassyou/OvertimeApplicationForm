@@ -24,7 +24,7 @@ namespace Attendance
 
         protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
         {
-            return new List<Object>() { StartDay };
+            return new List<Object>() { StartDay, EndDay };
         }
     }
 }

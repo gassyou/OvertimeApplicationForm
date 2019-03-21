@@ -695,11 +695,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Projects\\OvertimeApplicationForm\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\Projects\\OvertimeApplicationForm\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\OvertimeApplicationForm\\Common\\obj\\",
+      "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

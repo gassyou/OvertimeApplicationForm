@@ -11,7 +11,7 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
         {
             AssertionConcern.AssertArgumentNotNull(startTime, "Start time cannot be null.");
             AssertionConcern.AssertArgumentNotNull(endTime, "End time cannot be null.");
-            AssertionConcern.AssertArgumentTrue(DateTime.Compare(startTime, endTime) >= 0, "End time must be larger than stard time.");
+            AssertionConcern.AssertArgumentTrue(DateTime.Compare(startTime, endTime) <= 0, "End time must be larger than stard time.");
 
             this.StartFullTime = startTime;
             this.EndFullTime = endTime;
@@ -44,7 +44,7 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
             {
                 minute = 0;
             }
-            if (minute > 30 && minute < 59)
+            if (minute > 30 && minute <= 59)
             {
                 minute = 30;
             }
@@ -55,7 +55,8 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
 
         protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
         {
-            throw new NotImplementedException();
+            return new List<Object>() { StartFullTime, EndFullTime };
         }
+
     }
 }

@@ -6,3 +6,12 @@ C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.dll
 C:\Users\Mars\Desktop\DDD\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.pdb
+D:\Projects\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+D:\Projects\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.dll
+D:\Projects\OvertimeApplicationForm\Common\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.csprojResolveAssemblyReference.cache
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.dll
+D:\Projects\OvertimeApplicationForm\Common\obj\Debug\netcoreapp2.2\Common.pdb
