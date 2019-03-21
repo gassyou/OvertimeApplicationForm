@@ -29,6 +29,30 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
         public String EndTime { get; private set; }
         public double Duration { get; private set; }
 
+        public OvertimeTimeRegion RoundOvertimeTimeRegionInHalfHour()
+        {
+            DateTime startTime = RoundInHalfHour(this.StartFullTime);
+            DateTime endTime = RoundInHalfHour(this.EndFullTime);
+            return new OvertimeTimeRegion(startTime,endTime);
+        }
+
+        private DateTime RoundInHalfHour(DateTime time)
+        {
+            
+            int minute = time.Minute;
+            if (minute < 30)
+            {
+                minute = 0;
+            }
+            if (minute > 30 && minute < 59)
+            {
+                minute = 30;
+            }
+
+            return new DateTime(time.Year,time.Month,time.Day,time.Hour,minute,time.Second);
+            
+        }
+
         protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
         {
             throw new NotImplementedException();

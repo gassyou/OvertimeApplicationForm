@@ -1,0 +1,8 @@
+D:\Projects\OvertimeApplicationForm\Common\bin\Release\netcoreapp2.2\Common.deps.json
+D:\Projects\OvertimeApplicationForm\Common\bin\Release\netcoreapp2.2\Common.dll
+D:\Projects\OvertimeApplicationForm\Common\bin\Release\netcoreapp2.2\Common.pdb
+D:\Projects\OvertimeApplicationForm\Common\obj\Release\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+D:\Projects\OvertimeApplicationForm\Common\obj\Release\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\Projects\OvertimeApplicationForm\Common\obj\Release\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\Projects\OvertimeApplicationForm\Common\obj\Release\netcoreapp2.2\Common.dll
+D:\Projects\OvertimeApplicationForm\Common\obj\Release\netcoreapp2.2\Common.pdb

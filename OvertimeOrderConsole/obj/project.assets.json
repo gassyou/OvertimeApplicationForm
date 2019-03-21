@@ -207,43 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Attendance/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Attendance.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Attendance.dll": {}
-        }
-      },
-      "Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Common.dll": {}
-        }
-      },
-      "Overtime/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Attendance": "1.0.0",
-          "Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Overtime.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Overtime.dll": {}
-        }
       }
     }
   },
@@ -715,29 +678,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Attendance/1.0.0": {
-      "type": "project",
-      "path": "../Attendance/Attendance.csproj",
-      "msbuildProject": "../Attendance/Attendance.csproj"
-    },
-    "Common/1.0.0": {
-      "type": "project",
-      "path": "../Common/Common.csproj",
-      "msbuildProject": "../Common/Common.csproj"
-    },
-    "Overtime/1.0.0": {
-      "type": "project",
-      "path": "../Overtime/Overtime.csproj",
-      "msbuildProject": "../Overtime/Overtime.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Attendance >= 1.0.0",
-      "Common >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.2.0",
-      "Overtime >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
   "packageFolders": {
@@ -772,17 +717,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "D:\\Projects\\OvertimeApplicationForm\\Overtime\\Overtime.csproj": {
-              "projectPath": "D:\\Projects\\OvertimeApplicationForm\\Overtime\\Overtime.csproj"
-            },
-            "D:\\Projects\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
-              "projectPath": "D:\\Projects\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
-            },
-            "D:\\Projects\\OvertimeApplicationForm\\Common\\Common.csproj": {
-              "projectPath": "D:\\Projects\\OvertimeApplicationForm\\Common\\Common.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

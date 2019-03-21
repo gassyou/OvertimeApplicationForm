@@ -1,0 +1,5 @@
+D:\Projects\OvertimeApplicationForm\OvertimeOrderConsole\obj\Release\netcoreapp2.2\OvertimeOrderConsole.csproj.CoreCompileInputs.cache
+D:\Projects\OvertimeApplicationForm\OvertimeOrderConsole\obj\Release\netcoreapp2.2\OvertimeOrderConsole.AssemblyInfoInputs.cache
+D:\Projects\OvertimeApplicationForm\OvertimeOrderConsole\obj\Release\netcoreapp2.2\OvertimeOrderConsole.AssemblyInfo.cs
+D:\Projects\OvertimeApplicationForm\OvertimeOrderConsole\obj\Release\netcoreapp2.2\OvertimeOrderConsole.dll
+D:\Projects\OvertimeApplicationForm\OvertimeOrderConsole\obj\Release\netcoreapp2.2\OvertimeOrderConsole.pdb

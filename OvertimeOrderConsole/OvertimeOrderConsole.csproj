@@ -3,12 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <StartupObject>OvertimeOrderConsole.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Attendance\Attendance.csproj" />
-    <ProjectReference Include="..\Common\Common.csproj" />
-    <ProjectReference Include="..\Overtime\Overtime.csproj" />
-  </ItemGroup>
 
 </Project>

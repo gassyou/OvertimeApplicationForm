@@ -1,0 +1,11 @@
+D:\Projects\OvertimeApplicationForm\Attendance\bin\Release\netcoreapp2.2\Attendance.deps.json
+D:\Projects\OvertimeApplicationForm\Attendance\bin\Release\netcoreapp2.2\Attendance.dll
+D:\Projects\OvertimeApplicationForm\Attendance\bin\Release\netcoreapp2.2\Attendance.pdb
+D:\Projects\OvertimeApplicationForm\Attendance\bin\Release\netcoreapp2.2\Common.dll
+D:\Projects\OvertimeApplicationForm\Attendance\bin\Release\netcoreapp2.2\Common.pdb
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.csprojResolveAssemblyReference.cache
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.csproj.CoreCompileInputs.cache
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.AssemblyInfoInputs.cache
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.AssemblyInfo.cs
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.dll
+D:\Projects\OvertimeApplicationForm\Attendance\obj\Release\netcoreapp2.2\Attendance.pdb
