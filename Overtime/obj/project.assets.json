@@ -722,23 +722,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Mars\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+      "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
       "projectName": "Overtime",
-      "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+      "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
       "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\obj\\",
+      "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Mars\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -750,11 +753,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
-              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
+            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
+              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
             },
-            "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
-              "projectPath": "c:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
+            "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
             }
           }
         }

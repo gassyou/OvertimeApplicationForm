@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj",
+        "projectName": "Attendance",
+        "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj",
+        "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+        "projectName": "Overtime",
+        "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\Overtime.csproj",
+        "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Overtime\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj": {
+                "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Attendance\\Attendance.csproj"
+              },
+              "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Mars\\Desktop\\DDD\\OvertimeApplicationForm\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
