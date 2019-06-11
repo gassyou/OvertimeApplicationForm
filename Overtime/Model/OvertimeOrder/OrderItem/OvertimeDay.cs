@@ -26,6 +26,18 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
             return this.Day.Month == currentMonth.Month ? true : false;
         }
 
+        public bool isWorkDay()
+        {
+            if (this.DayOfWeek == "六" || this.DayOfWeek == "日")
+            {
+                return false;
+            }
+            else
+            {
+                return true; 
+            }
+        }
+
         protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
         {
             return new List<Object>() { Day };
