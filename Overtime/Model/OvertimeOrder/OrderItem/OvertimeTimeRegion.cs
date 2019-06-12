@@ -11,7 +11,7 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
         {
             AssertionConcern.AssertArgumentNotNull(startTime, "Start time cannot be null.");
             AssertionConcern.AssertArgumentNotNull(endTime, "End time cannot be null.");
-            //TODO: 加班到凌晨如何算？
+            //TODO: 加班的结束时间，大于第二天的上班时间。
             AssertionConcern.AssertArgumentTrue(DateTime.Compare(startTime, endTime) <= 0, "End time must be larger than stard time.");
 
             this.StartFullTime = startTime;
@@ -56,7 +56,7 @@ namespace Overtime.Model.OvertimeOrder.OrderItem
 
         public bool StartTimeLargerThan(DateTime time)
         {
-            return true;
+            return DateTime.Compare(time, StartFullTime) >= 0;
         }
 
         protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
